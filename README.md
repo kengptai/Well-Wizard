@@ -1,1 +1,1 @@
-# Well-Wizard
+# Well-Wizard (Mobile Companion App)
